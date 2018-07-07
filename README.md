@@ -31,3 +31,6 @@ Ctrl+m c 则和它相反，正常化cell
 利用快捷键“Shift+Enter”  
 
 3、运行文件： %run file.py
+
+
+如何在MAC 指定文件夹打开终端（terminal): https://www.jianshu.com/p/3e1b5fe48952
